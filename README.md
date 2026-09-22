@@ -7,10 +7,15 @@ A simple and responsive Increment & Decrement Counter App built using React.js a
 This is a beginner-friendly React project created to practice:
 
 1.React useState
+
 2.Event handling
+
 3.Component rendering
+
 4.Increment and decrement functionality
+
 5.Reset functionality
+
 6.Tailwind CSS styling
 
 
@@ -49,9 +54,8 @@ npm start
 
 Then open:
 
-shivamyadav8182.github.io/React-Tailwind-Starter-Pack/
-
 🌐 Live Demo
+https://shivamyadav8182.github.io/React-Tailwind-Starter-Pack/
 
 Live Demo
 
