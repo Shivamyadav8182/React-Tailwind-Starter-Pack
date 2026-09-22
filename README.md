@@ -12,18 +12,23 @@ Component rendering
 Increment and decrement functionality
 Reset functionality
 Tailwind CSS styling
+
+
 ✨ Features
 ➕ Increase counter
 ➖ Decrease counter
 🔄 Reset counter to 0
 📱 Responsive design
 🎨 Styled using Tailwind CSS
+
+
 🛠️ Technologies Used
 React.js
 Tailwind CSS
 JavaScript
 HTML
 CSS
+
 🚀 Run Locally
 
 Clone the repository:
@@ -44,7 +49,8 @@ npm start
 
 Then open:
 
-http://localhost:3000
+shivamyadav8182.github.io/React-Tailwind-Starter-Pack/
+
 🌐 Live Demo
 
 Live Demo
