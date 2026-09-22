@@ -20,18 +20,28 @@ This is a beginner-friendly React project created to practice:
 
 
 ✨ Features
+
 ➕ Increase counter
+
 ➖ Decrease counter
+
 🔄 Reset counter to 0
+
 📱 Responsive design
+
 🎨 Styled using Tailwind CSS
 
 
 🛠️ Technologies Used
+
 React.js
+
 Tailwind CSS
+
 JavaScript
+
 HTML
+
 CSS
 
 🚀 Run Locally
