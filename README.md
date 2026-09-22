@@ -6,12 +6,12 @@ A simple and responsive Increment & Decrement Counter App built using React.js a
 
 This is a beginner-friendly React project created to practice:
 
-React useState
-Event handling
-Component rendering
-Increment and decrement functionality
-Reset functionality
-Tailwind CSS styling
+1.React useState
+2.Event handling
+3.Component rendering
+4.Increment and decrement functionality
+5.Reset functionality
+6.Tailwind CSS styling
 
 
 ✨ Features
